@@ -1,0 +1,2 @@
+# Predactica
+This demo of an AI-based Virtual Analyst (AIVA) was developed for Predactica.com as a part of my Digital Consulting Capstone Project. Predactica is an AI-powered startup that provides business solutions to its clients. More about Predactica here: https://www.predactica.com/ . The Chatbot was intended to enhance customer experience (CX) by interactively answering user queries regarding Drug Refilling, Prescriptions, etc. The bot is featured on their website officially (with a few UI upgrades). 
